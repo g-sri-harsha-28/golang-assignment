@@ -1,3 +1,8 @@
+/*
+    Pipeline Pattern Problem: Implement a pipeline pattern in Go where one goroutine generates numbers,
+	another squares them, and a third prints the squared numbers.
+*/
+
 package main
 
 import (
